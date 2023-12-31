@@ -3175,8 +3175,8 @@ if (localStorage.getItem("blogbg") != undefined) {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://tuchuang.voooe.cn/images/2023/12/31/default.jpg);
     --darkmode-bg:url(https://tuchuang.voooe.cn/images/2023/12/31/darkmode.jpg);
-    --mobileday-bg: url(https://tuchuang.voooe.cn/images/2023/12/31/mobileday.png);
-    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2023/12/31/mobileday.png);
+    --mobileday-bg: url(https://tuchuang.voooe.cn/images/2023/12/31/80D4F247-914C-434C-BFA8-9AE2B5F97545.jpg);
+    --mobilenight-bg: url(https://tuchuang.voooe.cn/images/2023/12/31/8A339B3C-52CA-457A-B619-D6B0741561A8.jpg);
   }`;
 }
 // 切换背景主函数
